@@ -20,3 +20,6 @@
 // 30
 // 110
 //
+// En esta solución existen dos procedimientos porque no retorna ningún valor
+// La diferencia entre función y procedimiento es que en una función retorna un valor mientras que
+// en un procedimiento no.
