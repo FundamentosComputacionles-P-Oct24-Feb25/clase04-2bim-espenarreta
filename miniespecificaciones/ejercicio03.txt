@@ -6,7 +6,8 @@
 6.      variable2 <-- 20
 7.      obtenerSuma(variable, variable2)
 8.      obtenerSuma(variable, 100)
-9.      obtenerSuma("variable", 100) // ojo, error...
+9.      obtenerSuma("variable", 100) // ojo, error: Existe un error porque el primer parámetro es de tipo cadena y el procedimiento
+				     // solo admite valores enteros
 10.  fin funcion principal
 11.  // se define un método o función
 12.  funcion obtenerSuma(a, i; b, i)
